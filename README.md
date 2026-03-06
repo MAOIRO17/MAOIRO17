@@ -6,7 +6,7 @@ Soy un Técnico Superior en Desarrollo de Aplicaciones Web, me gusta mucho crear
 
 ---
 
-**Stack Tecnológico** 🛠️
+**Stack Tecnológico** 
 * **Backend:** Java (Spring), Python
 * **Frontend:** JavaScript, HTML5, CSS
 * **Bases de Datos:** T-SQL, MySQL
